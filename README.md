@@ -1,4 +1,4 @@
-# Python API Challenge
+# Weather Data API Analysis
 
 ## Overview
 This project analyzes weather patterns across cities worldwide and uses the data to plan ideal vacations. It consists of two parts:
